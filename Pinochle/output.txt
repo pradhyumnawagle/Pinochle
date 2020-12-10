@@ -1,0 +1,17 @@
+Round: 2
+Computer:
+     Score: 119/0
+     Hand: XD KS JC KH KS JD QS QC JH XC XD JD 
+     Capture Pile: 
+     Melds: 
+
+Human:
+     Score: 160/0
+     Hand: AD 9H JS XC KD QD AS KH JS JC 9H XS 
+     Capture Pile: 
+     Melds: 
+
+Trump Card: QD
+Stock: AH QH XH AC KD 9C QS AS XS KC KC AC 9D AD AH QH 9C QC 9D 9S 9S XH JH 
+
+Next player: Human
